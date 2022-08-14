@@ -12,3 +12,6 @@ now,only Windows+Node.js
   5. cmd `copyURI.bat "Playlist's Path"`
   6. paste and execute in browser console (downloaded AES128 key)
   7. cmd `abema_dl.bat "Playlist's Path" "Output video Path" "Key Path" "segment url domain+/"`
+  
+  written relative playlist path in playlists of m3u8s . So you have to 
+  segment url domain is same as playlist url domain
