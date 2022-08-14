@@ -7,7 +7,7 @@ now,only Windows+Node.js
 ### Windows+Node.js
   1. open browser developper tools (F12)
   2. move to Network Tab
-  3. filter m3u8
+  3. filter `m3u8`
   4. from playlist of m3u8s , select resolution and download it
   5. cmd `copyURI.bat "Playlist's Path"`
   6. paste and execute in browser console (downloaded AES128 key)
