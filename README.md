@@ -10,7 +10,7 @@ now,only Windows+Node.js
   3. filter `m3u8`
   4. from playlist of m3u8s , select resolution and download it
   5. cmd `copyURI.bat "Playlist's Path"`
-  6. paste and execute in browser console (downloaded AES128 key)
+  6. paste and execute in browser console (downloaded AES-128 key)
   7. cmd `abema_dl.bat "Playlist's Path" "Output video Path" "Key Path" "segment url domain+/"`
   
   written relative playlist path in playlists of m3u8s . So you have to convert to absolute path  
