@@ -4,7 +4,7 @@ now,only Windows+Node.js
 
 ##Usage
 
-### Windows+Node.js
+### Windows+Node.js (win_node)
   1. open browser developper tools (F12)
   2. move to Network Tab
   3. filter `m3u8`
