@@ -1,5 +1,5 @@
 if %1==help (
-   echo "1:playlist Path , 2:output Path , 3:key Path , 4:segment url Head(require '/')"
+   echo "1:playlist Path , 2:output Path , 3:key Path , 4:segment url domain(require '/')"
    ) else (
    node ./abema.key.js "%1" "%3" "%4"
    pause
