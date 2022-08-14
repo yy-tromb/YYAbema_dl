@@ -14,4 +14,4 @@ now,only Windows+Node.js
   7. cmd `abema_dl.bat "Playlist's Path" "Output video Path" "Key Path" "segment url domain+/"`
   
   written relative playlist path in playlists of m3u8s . So you have to convert to absolute path  
-  segment url domain is same as playlist url domain
+  segment url domain is as same as playlist url domain
