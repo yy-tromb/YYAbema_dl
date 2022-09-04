@@ -30,3 +30,7 @@ now,only Windows+Node.js
     
   異なる解像度のm3u8プレイリストが含まれるプレイリストは相対パスで書かれているため、絶対パスに直す必要があります  
   動画のセグメントのURLのドメインはプレイリストのURLのドメインと同じです  
+
+## License
+一応Apache License 2.0に従ってください。こんなもの使う人いないと思いますがww  
+Follow Apache License 2.0 . I don't think anyone will use it lol  
